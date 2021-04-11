@@ -1,0 +1,7 @@
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\bin\Debug\PokerFish.exe
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\bin\Debug\PokerFish.pdb
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\obj\Debug\PokerFish.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\obj\Debug\PokerFish.csproj.ResolveComReference.cache
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\obj\Debug\PokerFish.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\obj\Debug\PokerFish.exe
+C:\Users\Simon\Desktop\PokerFish\PokerFish\PokerFish\obj\Debug\PokerFish.pdb
