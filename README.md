@@ -1,2 +1,2 @@
 # PokerFish
-Screen scraber for PokerStars Client, for Poker analysis
+Screen scraber for PokerStars Client
